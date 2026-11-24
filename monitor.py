@@ -28,6 +28,7 @@ SERVERCHAN_URL = "https://sctapi.ftqq.com/"
 TARGET_GOODS = {
     "6476f814ab8e06aa735af9e1": "CR-PLA_1.75_1KG_颜色随机",
     "65f7a5ad42a8f2c3d45c3a39": "TPU耗材-1.0Kg-1.75mm-颜色随机",
+    "6af40eaf99d795757dc0be23": "京东店铺优惠券-满149元-119元",
 }
 
 # 状态文件路径
